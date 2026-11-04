@@ -20,3 +20,10 @@ MIT licensed. Made by [1puni](https://1puni.com).
 Visual direction requested by V: Swedish, inspired by Allmänningen's yellow,
 blue and red poster typography. Anton and Space Grotesk are bundled under
 SIL OFL; their licenses are in `dist/assets/`. Site code remains MIT.
+
+## Hosting
+
+Served on 1puni's VPS through the existing site target. Declaration:
+`deploy/sites/delist/site.yaml`. No ChatGPT Sites dependency is required.
+See `docs/search.md` for search discovery and measurement next steps.
+Agent instructions are published at `/AGENTS.md`.

@@ -1,0 +1,4 @@
+hostname: delist.1puni.com
+port: 8211
+kind: static
+root: dist
