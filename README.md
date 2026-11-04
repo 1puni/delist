@@ -16,3 +16,7 @@ Links and flows checked 2026-11-04. A tick records the visitor's own progress;
 it does not independently verify removal. Update links via a pull request.
 
 MIT licensed. Made by [1puni](https://1puni.com).
+
+Visual direction requested by V: Swedish, inspired by Allmänningen's yellow,
+blue and red poster typography. Anton and Space Grotesk are bundled under
+SIL OFL; their licenses are in `dist/assets/`. Site code remains MIT.
