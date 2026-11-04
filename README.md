@@ -6,10 +6,10 @@ Intended home: https://delist.1puni.com.
 Five official removal links, a mobile-operator reminder, and checkboxes saved
 only in the visitor’s browser. No accounts, analytics, third-party assets or build step.
 
-Serve `public/` with any static web server. For example:
+Serve `dist/` with any static web server. For example:
 
 ```sh
-uv run --no-project python -m http.server 8767 --directory public
+uv run --no-project python -m http.server 8767 --directory dist
 ```
 
 Links and flows checked 2026-11-04. A tick records the visitor's own progress;
